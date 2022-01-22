@@ -3,4 +3,4 @@ Practica web page (Aprendiendo Git y Github)
 
 Hola, cómo estás?
 
-Este es mi nuevo Website de prueba :smile::fa-github-alt:
+Este es mi nuevo Website de prueba :smile:
